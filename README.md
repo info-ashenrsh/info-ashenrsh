@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I am Ashen👋
+<p align = "left">
+  <img src="https://komarev.com/ghpvc/?username=info-ashenrsh&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=120px/> 
+</p>
 
-<!--
-**info-ashenrsh/info-ashenrsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=100&lines=Physical+Science+Undergraduate;Aspiring+Data+Scientist;AI+%26+Machine+Learning+Enthusiast;Python+%7C+C++%7C+Java+%7C+HTML+%7C+CSS+Learner;Frontend+Web+Developer;Content+Creator+%26+YouTuber;Fiverr+Freelancer;Always+Learning+New+Things" />
+</a>
 
-Here are some ideas to get you started:
+### My Statistics
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=info-ashenrsh&theme=dark&hide_border=true"/>
+</p>
+
+<hr>
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
