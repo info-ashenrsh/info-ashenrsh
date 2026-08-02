@@ -27,10 +27,17 @@
 
 ### My Statistics
 <hr>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=info-ashenrsh&theme=dark&hide_border=true"/>
-</p>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+	<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=info-ashenrsh&theme=dark&hide_border=true"/></p>
+</td>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=info-ashenrsh&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr>
+</table>
 
 ---
 
